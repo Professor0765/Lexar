@@ -1,2 +1,0 @@
-# Lexar
-For Company
