@@ -1,15 +1,42 @@
-# Lexar Landing Page Clone
+# My Website
 
-This project is a basic clone of the Lexar landing page header and a placeholder for a slider section, built with plain HTML, CSS, and JavaScript.
+This project is a simple website that displays a Facebook page and includes basic styling and interactivity.
 
 ## Project Structure
 
-- `index.html`: The main HTML file containing the page structure.
-- `style.css`: The CSS file for styling the page.
-- `script.js`: The JavaScript file for interactive features (currently empty).
+```
+my-website
+├── index.html        # Main HTML document
+├── css
+│   └── styles.css    # Styles for the website
+├── js
+│   └── script.js     # JavaScript functionality
+└── README.md         # Project documentation
+```
 
 ## Getting Started
 
-1. Open the `index.html` file in your web browser to view the page.
-2. Add your desired images and videos to the `slider-content` div in `index.html`.
-3. Implement the slider functionality in `script.js`. 
+To set up and run the website locally, follow these steps:
+
+1. **Clone the repository**:
+   ```
+   git clone <repository-url>
+   ```
+
+2. **Navigate to the project directory**:
+   ```
+   cd my-website
+   ```
+
+3. **Open the `index.html` file in your web browser**:
+   You can simply double-click the `index.html` file or open it using your preferred web browser.
+
+## Features
+
+- Displays a Facebook page.
+- Responsive design with custom styles.
+- Interactive elements powered by JavaScript.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
